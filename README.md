@@ -3,6 +3,11 @@
 ## Description
 A react app that simulates an ATM.
 
+### Changes I made to the project:
+- prevent overdraft by giving an alert of "Insuficient Funds".
+- inplemented a drop down to select Deposit or Cash Back insted of buttons.
+- Changed the layout to put the total at the botom of the page instead of at the top.
+
 ## How To Run
 visit _____ to run the app
 
